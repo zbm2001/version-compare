@@ -1,0 +1,26 @@
+{
+  "name": "version-compare",
+  "version": "0.1.0",
+  "description": "Version compare 版本比对",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbm2001/version-compare.git"
+  },
+  "keywords": [
+    "version",
+    "compare",
+    "level",
+    "版本比对",
+    "版本高低"
+  ],
+  "author": "zbm2001@aliyun.com",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/zbm2001/version-compare/issues"
+  },
+  "homepage": "https://github.com/zbm2001/version-compare#readme"
+}
