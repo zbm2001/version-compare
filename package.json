@@ -1,6 +1,6 @@
 {
   "name": "@zbm1/version-compare",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Version compare 版本比对",
   "main": "index.js",
   "scripts": {
